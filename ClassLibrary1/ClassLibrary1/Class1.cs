@@ -13,5 +13,10 @@ namespace ClassLibrary1
 
             var dsbjskgjbs = "slnslgknsdlgkslgn";
         }
+        void sdgsdgsgt()
+        {
+
+            var dsbjskgjbs = "slnslgknsdlgkslgn";
+        }
     }
 }
